@@ -1,0 +1,16 @@
+# Render Blueprint
+services:
+  - type: web
+    name: tourism-travel-001-frontend
+    env: static
+    buildCommand: npm ci && npm run build
+  - type: web
+    name: tourism-travel-001-backend
+    env: node
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /api/health
+
+databases:
+  - name: tourism-travel-001-db
+    databaseName: tourism_travel_001

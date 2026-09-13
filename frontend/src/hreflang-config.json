@@ -1,0 +1,15 @@
+{
+  "base_url": "https://tourism-travel-001.com",
+  "region": "SA",
+  "hreflangs": [
+    {
+      "lang": "ur-pk",
+      "code": "ur"
+    },
+    {
+      "lang": "en-pk",
+      "code": "en"
+    }
+  ],
+  "pages": ["", "about", "services", "contact"]
+}

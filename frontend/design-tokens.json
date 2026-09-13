@@ -1,0 +1,54 @@
+{
+  "style": "neumorphism",
+  "name": "Neumorphism (Soft UI)",
+  "dna": "Soft inset/outset shadows, monochrome base, tactile depth.",
+  "project_name": "tourism-travel-001",
+  "palette": {
+    "primary": "#e0e5ec",
+    "secondary": "#8b93a7",
+    "accent": "#a3b2e0",
+    "bg": "#e0e5ec",
+    "card": "#e0e5ec",
+    "surface": "#d6dbe2",
+    "text": "#3b4156",
+    "muted": "#8b93a7",
+    "border": "#e0e5ec"
+  },
+  "palette_hsl": {
+    "primary": "215 24.0% 90.2%",
+    "secondary": "223 13.7% 60.0%",
+    "accent": "225 49.6% 75.9%",
+    "bg": "215 24.0% 90.2%",
+    "card": "215 24.0% 90.2%",
+    "surface": "215 17.1% 86.3%",
+    "text": "227 18.6% 28.4%",
+    "muted": "223 13.7% 60.0%",
+    "border": "215 24.0% 90.2%"
+  },
+  "typography": {
+    "display": "Inter",
+    "sans": "Inter",
+    "mono": "JetBrains Mono",
+    "scale": [12, 14, 16, 18, 24, 30, 36, 48, 64]
+  },
+  "radius": {
+    "card": "24px",
+    "button": "9999px"
+  },
+  "shadow": {
+    "card": "12px 12px 28px #b8bec7, -12px -12px 28px #ffffff",
+    "button": "6px 6px 14px #b8bec7, -6px -6px 14px #ffffff"
+  },
+  "border": {
+    "card": "1px solid rgba(255,255,255,0.5)",
+    "button": "1px solid rgba(255,255,255,0.5)"
+  },
+  "effects": {
+    "blur": "0px",
+    "glow": "none"
+  },
+  "weight": "medium",
+  "composition": "neumorph",
+  "generated_by": "lumicorepro-design-engine",
+  "timestamp": "2026-09-13T08:52:30Z"
+}
